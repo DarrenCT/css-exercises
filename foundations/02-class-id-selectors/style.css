@@ -1,0 +1,20 @@
+p{
+    background-color: lightpink;
+}
+.num1, .num5{
+    font-size: 20px;
+}
+
+.num3, #num4{
+    font-size: 25px;
+}
+
+#num4{
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+#num2{
+    font-size: 30px;
+    color: blue;
+}
